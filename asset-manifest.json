@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CardFlip/static/css/main.8b6fad50.css",
+    "main.js": "/CardFlip/static/js/main.69877061.js",
+    "static/media/congr.png": "/CardFlip/static/media/congr.05fd412812295a6a2019.png",
+    "index.html": "/CardFlip/index.html",
+    "main.8b6fad50.css.map": "/CardFlip/static/css/main.8b6fad50.css.map",
+    "main.69877061.js.map": "/CardFlip/static/js/main.69877061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6fad50.css",
+    "static/js/main.69877061.js"
+  ]
+}
